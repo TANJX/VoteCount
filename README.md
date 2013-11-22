@@ -1,0 +1,4 @@
+VoteCount
+=========
+
+Count for VoteCount
