@@ -1,0 +1,37 @@
+name: VoteCount
+main: hxfu.votecount.VoteCount
+version: 1.1
+description: 统计玩家对服务器的评分或用于投票
+author: [TANJX]
+website: http://fantasyhome.cc
+prefix: 投票统计
+
+commands:
+   v11:
+      description: 1项投票1分.
+   v12:
+      description: 1项投票2分.
+   v13:
+      description: 1项投票3分.
+   v14:
+      description: 1项投票4分.
+   v15:
+      description: 1项投票5分.
+   v21:
+      description: 2项投票同意.
+   v22:
+      description: 2项投票不同意.
+   v31:
+      description: 3项投票同意.
+   v32:
+      description: 3项投票不同意.
+   v41:
+      description: 4项投票1分.
+   v42:
+      description: 4项投票2分.
+   v43:
+      description: 4项投票3分.
+   v44:
+      description: 4项投票4分.
+   v45:
+      description: 4项投票5分.
